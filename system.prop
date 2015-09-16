@@ -1,4 +1,6 @@
 # system.prop for msm8610
+ro.product.device=otus
+ro.product.model=otus
 #
 
 # Use reference RIL for initial bringup
